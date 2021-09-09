@@ -67,48 +67,48 @@ ___
 
 | Level |  W1  |  W2  |  W3  |  W4  |
 | ----- | ---- | ---- | ---- | ---- |
-| 41 |  |  |  |  |
-| 42 |  |  |  |  |
-| 43 |  |  |  |  |
-| 44 |  |  |  |  |
-| 45 |  |  |  |  |
-| 46 |  |  |  |  |
-| 47 |  |  |  |  |
-| 48 |  |  |  |  |
-| 49 |  |  |  |  |
-| 50 |  |  |  |  |
+| 41 | Guess | Trial |  |  |
+| 42 | Allow | Worth | Hello |  |
+| 43 | Survivor | Sweep | Route |  |
+| 44 | Passion | Brush |  |  |
+| 45 | Advantage | Area | Agreement |  |
+| 46 | Meeting | Attack |  |  |
+| 47 | Minority | Stuff | Aircraft |  |
+| 48 | Punishment | Painting |  |  |
+| 49 | Increasing |  |  |  |
+| 50 | Particular | Along | Like |  |
 
 
 ## Levels 51-60
 
 | Level |  W1  |  W2  |  W3  |  W4  |
 | ----- | ---- | ---- | ---- | ---- |
-| 51 |  |  |  |  |
-| 52 |  |  |  |  |
-| 53 |  |  |  |  |
-| 54 |  |  |  |  |
-| 55 |  |  |  |  |
-| 56 |  |  |  |  |
-| 57 |  |  |  |  |
-| 58 |  |  |  |  |
-| 59 |  |  |  |  |
-| 60 |  |  |  |  |
+| 51 | Celebrity | Recording |  |  |
+| 52 | Carry | Crime | Inner |  |
+| 53 | Modest | Meter | Aside |  |
+| 54 | Single | Under |  |  |
+| 55 | Council | Cream | Mystery |  |
+| 56 | Selection | Clearly |  |  |
+| 57 | Shelter | Great | Growth | Twelve |
+| 58 | Educate | Dispute |  |  |
+| 59 | Mutual | Little | Stable |  |
+| 60 | Between | Case | Broad |  |
 
 
 ## Levels 61-70
 
 | Level |  W1  |  W2  |  W3  |  W4  |
 | ----- | ---- | ---- | ---- | ---- |
-| 61 |  |  |  |  |
-| 62 |  |  |  |  |
-| 63 |  |  |  |  |
-| 64 |  |  |  |  |
-| 65 |  |  |  |  |
-| 66 |  |  |  |  |
-| 67 |  |  |  |  |
-| 68 |  |  |  |  |
-| 69 |  |  |  |  |
-| 70 |  |  |  |  |
+| 61 | Deficit | Attach | Fight |  |
+| 62 | Action | Hang | Loss |  |
+| 63 | Institution | Treat | Trust |  |
+| 64 | Wheel | Mess | Menu |  |
+| 65 | Social | Locate | Inside |  |
+| 66 | Symbol | Normally | Tomato |  |
+| 67 | Alive | Rail |  |  |
+| 68 | Science | Comedy | Corner |  |
+| 69 | Unlikely | Permit |  |  |
+| 70 | Commercial |  |  |  |
 
 ___
 
@@ -116,32 +116,32 @@ ___
 
 | Level |  W1  |  W2  |  W3  |  W4  |
 | ----- | ---- | ---- | ---- | ---- |
-| 71 |  |  |  |  |
-| 72 |  |  |  |  |
-| 73 |  |  |  |  |
-| 74 |  |  |  |  |
-| 75 |  |  |  |  |
-| 76 |  |  |  |  |
-| 77 |  |  |  |  |
-| 78 |  |  |  |  |
-| 79 |  |  |  |  |
-| 80 |  |  |  |  |
+| 71 | Victim | Report | Iron |  |
+| 72 | Balance | Save |  |  |
+| 73 | Street | Decade |  |  |
+| 74 | Disease | Race | Loud |  |
+| 75 | Officer | Several | File |  |
+| 76 | General | Ethnic | Tend |  |
+| 77 | Pregnant | Continue |  |  |
+| 78 | Brief | Learn |  |  |
+| 79 | Boom | Live |  |  |
+| 80 | Guideline | Agenda | Odds |  |
 
 
 ## Levels 81-90
 
 | Level |  W1  |  W2  |  W3  |  W4  |
 | ----- | ---- | ---- | ---- | ---- |
-| 81 |  |  |  |  |
-| 82 |  |  |  |  |
-| 83 |  |  |  |  |
-| 84 |  |  |  |  |
-| 85 |  |  |  |  |
-| 86 |  |  |  |  |
-| 87 |  |  |  |  |
-| 88 |  |  |  |  |
-| 89 |  |  |  |  |
-| 90 |  |  |  |  |
+| 81 | Somehow | Inquiry |  |  |
+| 82 | Wife | Wild |  |  |
+| 83 | Program | Skill | Begin |  |
+| 84 | Doctor | Score | Proud | Rely |
+| 85 | Recall | Truly | Dress |  |
+| 86 | Discourse | Formation | Trouble |  |
+| 87 | Compose | Found | Upper |  |
+| 88 | Admission | Increased |  |  |
+| 89 | Heavy | House |  |  |
+| 90 | Squeeze | Sweet |  |  |
 
 
 
@@ -149,13 +149,13 @@ ___
 
 | Level |  W1  |  W2  |  W3  |  W4  |
 | ----- | ---- | ---- | ---- | ---- |
-| 91 |  |  |  |  |
-| 92 |  |  |  |  |
-| 93 |  |  |  |  |
-| 94 |  |  |  |  |
-| 95 |  |  |  |  |
-| 96 |  |  |  |  |
-| 97 |  |  |  |  |
-| 98 |  |  |  |  |
-| 99 |  |  |  |  |
-| 100 |  |  |  |  |
+| 91 | Maintenance | Destruction |  |  |
+| 92 | Prison | Desk | Mood |  |
+| 93 | Hunting | Taste | Breast |  |
+| 94 | Feature | Briefly | Surface |  |
+| 95 | Potential | Nerve |  |  |
+| 96 | Police | Heat | Volume |  |
+| 97 | Airline | Sample | Place |  |
+| 98 | Terms | Bring |  |  |
+| 99 | Immigrant | Grave | Trail |  |
+| 100 | Show | Succeed |  |  |
